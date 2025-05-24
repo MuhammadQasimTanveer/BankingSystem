@@ -6,17 +6,16 @@
 
 ✨ Features
 
-   • Add and remove customers
-   • Create and delete bank accounts (Savings or Current)
-   • Display detailed account information
-   • Apply for loans with interest calculation
-   • Repay loans with remaining balance tracking
-   • Display all registered customers and their financial profiles
-   • Menu-driven console interface for interactive operation
+            • Add and remove customers
+            • Create and delete bank accounts (Savings or Current)
+            • Display detailed account information
+            • Apply for loans with interest calculation
+            • Repay loans with remaining balance tracking
+            • Display all registered customers and their financial profiles
+            • Menu-driven console interface for interactive operation
 
 🛠 Technologies Used
 
-   Java (OOP principles, interfaces, inheritance, abstraction)
-   Scanner for input handling
-   Console-based interface
-
+      Java (OOP principles, interfaces, inheritance, abstraction)
+      Scanner for input handling
+     Console-based interface
